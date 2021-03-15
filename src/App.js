@@ -29,7 +29,8 @@ class App extends Component {
     return num + this.sumOfAp(num-1)
   }
   changeNumber = (event) => { // function for input(number) change
-    if((event.target.value === '') || (event.target.value.length >= 5 ) || (event.target.value = null)
+    console.log(event.target)
+    if((event.target.value === '') || (event.target.value.length >= 5 ) || (event.target.nodeValue ==null)
      || (isNaN(event.target.value)) ){
       return (
         <h4> numbers should not be greater than 9999</h4>
