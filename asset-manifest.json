@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/factorialAndSumCalculator/static/css/main.2806e284.chunk.css",
+    "main.js": "/factorialAndSumCalculator/static/js/main.e813dbde.chunk.js",
+    "main.js.map": "/factorialAndSumCalculator/static/js/main.e813dbde.chunk.js.map",
+    "runtime-main.js": "/factorialAndSumCalculator/static/js/runtime-main.23cc724b.js",
+    "runtime-main.js.map": "/factorialAndSumCalculator/static/js/runtime-main.23cc724b.js.map",
+    "static/js/2.223e9d93.chunk.js": "/factorialAndSumCalculator/static/js/2.223e9d93.chunk.js",
+    "static/js/2.223e9d93.chunk.js.map": "/factorialAndSumCalculator/static/js/2.223e9d93.chunk.js.map",
+    "index.html": "/factorialAndSumCalculator/index.html",
+    "precache-manifest.b9aabe61186940c8d0afa448ca030dc8.js": "/factorialAndSumCalculator/precache-manifest.b9aabe61186940c8d0afa448ca030dc8.js",
+    "service-worker.js": "/factorialAndSumCalculator/service-worker.js",
+    "static/css/main.2806e284.chunk.css.map": "/factorialAndSumCalculator/static/css/main.2806e284.chunk.css.map",
+    "static/js/2.223e9d93.chunk.js.LICENSE.txt": "/factorialAndSumCalculator/static/js/2.223e9d93.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/factorialAndSumCalculator/static/media/background.bca0cd3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23cc724b.js",
+    "static/js/2.223e9d93.chunk.js",
+    "static/css/main.2806e284.chunk.css",
+    "static/js/main.e813dbde.chunk.js"
+  ]
+}
